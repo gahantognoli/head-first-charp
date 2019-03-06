@@ -1,0 +1,4 @@
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap5Program2\bin\Debug\Cap5Program2.exe
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap5Program2\bin\Debug\Cap5Program2.pdb
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap5Program2\obj\x86\Debug\Cap5Program2.exe
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap5Program2\obj\x86\Debug\Cap5Program2.pdb

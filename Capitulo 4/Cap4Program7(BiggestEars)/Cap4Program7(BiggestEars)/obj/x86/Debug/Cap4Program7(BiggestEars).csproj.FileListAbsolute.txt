@@ -1,0 +1,7 @@
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program7(BiggestEars)\bin\Debug\Cap4Program7(BiggestEars).exe
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program7(BiggestEars)\bin\Debug\Cap4Program7(BiggestEars).pdb
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program7(BiggestEars)\obj\x86\Debug\Cap4Program7_BiggestEars_.Form1.resources
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program7(BiggestEars)\obj\x86\Debug\Cap4Program7_BiggestEars_.Properties.Resources.resources
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program7(BiggestEars)\obj\x86\Debug\Cap4Program7(BiggestEars).csproj.GenerateResource.Cache
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program7(BiggestEars)\obj\x86\Debug\Cap4Program7(BiggestEars).exe
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program7(BiggestEars)\obj\x86\Debug\Cap4Program7(BiggestEars).pdb

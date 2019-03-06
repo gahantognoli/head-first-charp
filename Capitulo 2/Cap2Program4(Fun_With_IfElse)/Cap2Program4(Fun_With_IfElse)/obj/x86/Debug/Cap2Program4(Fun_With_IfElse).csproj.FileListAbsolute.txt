@@ -1,0 +1,7 @@
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Cap2Program4(Fun_With_IfElse)\Cap2Program4(Fun_With_IfElse)\bin\Debug\Cap2Program4(Fun_With_IfElse).exe
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Cap2Program4(Fun_With_IfElse)\Cap2Program4(Fun_With_IfElse)\bin\Debug\Cap2Program4(Fun_With_IfElse).pdb
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Cap2Program4(Fun_With_IfElse)\Cap2Program4(Fun_With_IfElse)\obj\x86\Debug\Cap2Program4_Fun_With_IfElse_.Form1.resources
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Cap2Program4(Fun_With_IfElse)\Cap2Program4(Fun_With_IfElse)\obj\x86\Debug\Cap2Program4_Fun_With_IfElse_.Properties.Resources.resources
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Cap2Program4(Fun_With_IfElse)\Cap2Program4(Fun_With_IfElse)\obj\x86\Debug\Cap2Program4(Fun_With_IfElse).csproj.GenerateResource.Cache
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Cap2Program4(Fun_With_IfElse)\Cap2Program4(Fun_With_IfElse)\obj\x86\Debug\Cap2Program4(Fun_With_IfElse).exe
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Cap2Program4(Fun_With_IfElse)\Cap2Program4(Fun_With_IfElse)\obj\x86\Debug\Cap2Program4(Fun_With_IfElse).pdb

@@ -1,0 +1,7 @@
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap2Program5(Flashy_Thing)\bin\Debug\Cap2Program5(Flashy_Thing).exe
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap2Program5(Flashy_Thing)\bin\Debug\Cap2Program5(Flashy_Thing).pdb
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap2Program5(Flashy_Thing)\obj\x86\Debug\Cap2Program5_Flashy_Thing_.Form1.resources
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap2Program5(Flashy_Thing)\obj\x86\Debug\Cap2Program5_Flashy_Thing_.Properties.Resources.resources
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap2Program5(Flashy_Thing)\obj\x86\Debug\Cap2Program5(Flashy_Thing).csproj.GenerateResource.Cache
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap2Program5(Flashy_Thing)\obj\x86\Debug\Cap2Program5(Flashy_Thing).exe
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap2Program5(Flashy_Thing)\obj\x86\Debug\Cap2Program5(Flashy_Thing).pdb

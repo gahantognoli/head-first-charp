@@ -1,0 +1,14 @@
+C:\Users\gabri\AppData\Local\Temporary Projects\Program3Cap4(Calculadora_Reembolso)\bin\Debug\Program3Cap4(Calculadora_Reembolso).exe
+C:\Users\gabri\AppData\Local\Temporary Projects\Program3Cap4(Calculadora_Reembolso)\bin\Debug\Program3Cap4(Calculadora_Reembolso).pdb
+C:\Users\gabri\AppData\Local\Temporary Projects\Program3Cap4(Calculadora_Reembolso)\obj\x86\Debug\Program3Cap4_Calculadora_Reembolso_.Reembolso.resources
+C:\Users\gabri\AppData\Local\Temporary Projects\Program3Cap4(Calculadora_Reembolso)\obj\x86\Debug\Program3Cap4_Calculadora_Reembolso_.Properties.Resources.resources
+C:\Users\gabri\AppData\Local\Temporary Projects\Program3Cap4(Calculadora_Reembolso)\obj\x86\Debug\Program3Cap4(Calculadora_Reembolso).csproj.GenerateResource.Cache
+C:\Users\gabri\AppData\Local\Temporary Projects\Program3Cap4(Calculadora_Reembolso)\obj\x86\Debug\Program3Cap4(Calculadora_Reembolso).exe
+C:\Users\gabri\AppData\Local\Temporary Projects\Program3Cap4(Calculadora_Reembolso)\obj\x86\Debug\Program3Cap4(Calculadora_Reembolso).pdb
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo 4\Program3Cap4(Calculadora_Reembolso)\Program3Cap4(Calculadora_Reembolso)\obj\x86\Debug\Program3Cap4(Calculadora_Reembolso).exe
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo 4\Program3Cap4(Calculadora_Reembolso)\Program3Cap4(Calculadora_Reembolso)\obj\x86\Debug\Program3Cap4(Calculadora_Reembolso).pdb
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo 4\Program3Cap4(Calculadora_Reembolso)\Program3Cap4(Calculadora_Reembolso)\bin\Debug\Program3Cap4(Calculadora_Reembolso).exe
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo 4\Program3Cap4(Calculadora_Reembolso)\Program3Cap4(Calculadora_Reembolso)\bin\Debug\Program3Cap4(Calculadora_Reembolso).pdb
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo 4\Program3Cap4(Calculadora_Reembolso)\Program3Cap4(Calculadora_Reembolso)\obj\x86\Debug\Program3Cap4_Calculadora_Reembolso_.Reembolso.resources
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo 4\Program3Cap4(Calculadora_Reembolso)\Program3Cap4(Calculadora_Reembolso)\obj\x86\Debug\Program3Cap4_Calculadora_Reembolso_.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo 4\Program3Cap4(Calculadora_Reembolso)\Program3Cap4(Calculadora_Reembolso)\obj\x86\Debug\Program3Cap4(Calculadora_Reembolso).csproj.GenerateResource.Cache

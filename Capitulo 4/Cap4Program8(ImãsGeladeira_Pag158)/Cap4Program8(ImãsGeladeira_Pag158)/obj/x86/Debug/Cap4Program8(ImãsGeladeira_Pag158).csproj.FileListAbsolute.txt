@@ -1,0 +1,7 @@
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program8(ImãsGeladeira_Pag158)\obj\x86\Debug\Cap4Program8_ImãsGeladeira_Pag158_.Form1.resources
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program8(ImãsGeladeira_Pag158)\obj\x86\Debug\Cap4Program8_ImãsGeladeira_Pag158_.Properties.Resources.resources
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program8(ImãsGeladeira_Pag158)\obj\x86\Debug\Cap4Program8(ImãsGeladeira_Pag158).csproj.GenerateResource.Cache
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program8(ImãsGeladeira_Pag158)\bin\Debug\Cap4Program8(ImãsGeladeira_Pag158).exe
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program8(ImãsGeladeira_Pag158)\bin\Debug\Cap4Program8(ImãsGeladeira_Pag158).pdb
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program8(ImãsGeladeira_Pag158)\obj\x86\Debug\Cap4Program8(ImãsGeladeira_Pag158).exe
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program8(ImãsGeladeira_Pag158)\obj\x86\Debug\Cap4Program8(ImãsGeladeira_Pag158).pdb

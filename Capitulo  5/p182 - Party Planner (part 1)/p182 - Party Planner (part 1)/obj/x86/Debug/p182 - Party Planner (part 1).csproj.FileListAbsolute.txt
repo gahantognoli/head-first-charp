@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo  5\p182 - Party Planner (part 1)\p182 - Party Planner (part 1)\bin\Debug\p182 - Party Planner (part 1).exe
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo  5\p182 - Party Planner (part 1)\p182 - Party Planner (part 1)\bin\Debug\p182 - Party Planner (part 1).pdb
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo  5\p182 - Party Planner (part 1)\p182 - Party Planner (part 1)\obj\x86\Debug\Party_planner.Form1.resources
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo  5\p182 - Party Planner (part 1)\p182 - Party Planner (part 1)\obj\x86\Debug\Party_planner.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo  5\p182 - Party Planner (part 1)\p182 - Party Planner (part 1)\obj\x86\Debug\p182 - Party Planner (part 1).csproj.GenerateResource.Cache
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo  5\p182 - Party Planner (part 1)\p182 - Party Planner (part 1)\obj\x86\Debug\p182 - Party Planner (part 1).exe
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo  5\p182 - Party Planner (part 1)\p182 - Party Planner (part 1)\obj\x86\Debug\p182 - Party Planner (part 1).pdb

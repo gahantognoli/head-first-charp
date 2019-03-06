@@ -1,0 +1,9 @@
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap3Program2(Guys_Cash)\bin\Debug\Cap3Program2(Guys_Cash).exe
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap3Program2(Guys_Cash)\bin\Debug\Cap3Program2(Guys_Cash).pdb
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap3Program2(Guys_Cash)\obj\x86\Debug\Cap3Program2_Guys_Cash_.Form1.resources
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap3Program2(Guys_Cash)\obj\x86\Debug\Cap3Program2_Guys_Cash_.Properties.Resources.resources
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap3Program2(Guys_Cash)\obj\x86\Debug\Cap3Program2(Guys_Cash).csproj.GenerateResource.Cache
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap3Program2(Guys_Cash)\obj\x86\Debug\Cap3Program2(Guys_Cash).exe
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap3Program2(Guys_Cash)\obj\x86\Debug\Cap3Program2(Guys_Cash).pdb
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo 3\Cap3Program2(Guys_Cash)\Cap3Program2(Guys_Cash)\obj\x86\Debug\Cap3Program2(Guys_Cash).exe
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo 3\Cap3Program2(Guys_Cash)\Cap3Program2(Guys_Cash)\obj\x86\Debug\Cap3Program2(Guys_Cash).pdb

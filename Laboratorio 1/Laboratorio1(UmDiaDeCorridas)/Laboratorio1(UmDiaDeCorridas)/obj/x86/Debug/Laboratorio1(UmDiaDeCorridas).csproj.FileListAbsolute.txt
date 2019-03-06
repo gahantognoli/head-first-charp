@@ -1,0 +1,14 @@
+C:\Users\gabri\AppData\Local\Temporary Projects\Laboratorio1(UmDiaDeCorridas)\bin\Debug\Laboratorio1(UmDiaDeCorridas).exe
+C:\Users\gabri\AppData\Local\Temporary Projects\Laboratorio1(UmDiaDeCorridas)\bin\Debug\Laboratorio1(UmDiaDeCorridas).pdb
+C:\Users\gabri\AppData\Local\Temporary Projects\Laboratorio1(UmDiaDeCorridas)\obj\x86\Debug\Laboratorio1_UmDiaDeCorridas_.Form1.resources
+C:\Users\gabri\AppData\Local\Temporary Projects\Laboratorio1(UmDiaDeCorridas)\obj\x86\Debug\Laboratorio1_UmDiaDeCorridas_.Properties.Resources.resources
+C:\Users\gabri\AppData\Local\Temporary Projects\Laboratorio1(UmDiaDeCorridas)\obj\x86\Debug\Laboratorio1(UmDiaDeCorridas).csproj.GenerateResource.Cache
+C:\Users\gabri\AppData\Local\Temporary Projects\Laboratorio1(UmDiaDeCorridas)\obj\x86\Debug\Laboratorio1(UmDiaDeCorridas).exe
+C:\Users\gabri\AppData\Local\Temporary Projects\Laboratorio1(UmDiaDeCorridas)\obj\x86\Debug\Laboratorio1(UmDiaDeCorridas).pdb
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Laboratorio 1\Laboratorio1(UmDiaDeCorridas)\Laboratorio1(UmDiaDeCorridas)\obj\x86\Debug\Laboratorio1(UmDiaDeCorridas).exe
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Laboratorio 1\Laboratorio1(UmDiaDeCorridas)\Laboratorio1(UmDiaDeCorridas)\obj\x86\Debug\Laboratorio1(UmDiaDeCorridas).pdb
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Laboratorio 1\Laboratorio1(UmDiaDeCorridas)\Laboratorio1(UmDiaDeCorridas)\obj\x86\Debug\Laboratorio1_UmDiaDeCorridas_.Form1.resources
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Laboratorio 1\Laboratorio1(UmDiaDeCorridas)\Laboratorio1(UmDiaDeCorridas)\obj\x86\Debug\Laboratorio1_UmDiaDeCorridas_.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Laboratorio 1\Laboratorio1(UmDiaDeCorridas)\Laboratorio1(UmDiaDeCorridas)\obj\x86\Debug\Laboratorio1(UmDiaDeCorridas).csproj.GenerateResource.Cache
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Laboratorio 1\Laboratorio1(UmDiaDeCorridas)\Laboratorio1(UmDiaDeCorridas)\bin\Debug\Laboratorio1(UmDiaDeCorridas).exe
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Laboratorio 1\Laboratorio1(UmDiaDeCorridas)\Laboratorio1(UmDiaDeCorridas)\bin\Debug\Laboratorio1(UmDiaDeCorridas).pdb

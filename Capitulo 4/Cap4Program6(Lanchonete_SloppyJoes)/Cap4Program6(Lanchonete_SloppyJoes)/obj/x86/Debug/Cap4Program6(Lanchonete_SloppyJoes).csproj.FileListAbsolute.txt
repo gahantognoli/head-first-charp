@@ -1,0 +1,7 @@
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program6(Lanchonete_SloppyJoes)\bin\Debug\Cap4Program6(Lanchonete_SloppyJoes).exe
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program6(Lanchonete_SloppyJoes)\bin\Debug\Cap4Program6(Lanchonete_SloppyJoes).pdb
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program6(Lanchonete_SloppyJoes)\obj\x86\Debug\Cap4Program6_Lanchonete_SloppyJoes_.Form1.resources
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program6(Lanchonete_SloppyJoes)\obj\x86\Debug\Cap4Program6_Lanchonete_SloppyJoes_.Properties.Resources.resources
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program6(Lanchonete_SloppyJoes)\obj\x86\Debug\Cap4Program6(Lanchonete_SloppyJoes).csproj.GenerateResource.Cache
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program6(Lanchonete_SloppyJoes)\obj\x86\Debug\Cap4Program6(Lanchonete_SloppyJoes).exe
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program6(Lanchonete_SloppyJoes)\obj\x86\Debug\Cap4Program6(Lanchonete_SloppyJoes).pdb

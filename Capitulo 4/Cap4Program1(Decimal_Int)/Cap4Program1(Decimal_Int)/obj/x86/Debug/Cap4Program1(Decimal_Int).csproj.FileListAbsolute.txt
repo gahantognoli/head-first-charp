@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo 4\Cap4Program1(Decimal_Int)\Cap4Program1(Decimal_Int)\obj\x86\Debug\Cap4Program1_Decimal_Int_.Form1.resources
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo 4\Cap4Program1(Decimal_Int)\Cap4Program1(Decimal_Int)\obj\x86\Debug\Cap4Program1_Decimal_Int_.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo 4\Cap4Program1(Decimal_Int)\Cap4Program1(Decimal_Int)\obj\x86\Debug\Cap4Program1(Decimal_Int).csproj.GenerateResource.Cache
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo 4\Cap4Program1(Decimal_Int)\Cap4Program1(Decimal_Int)\bin\Debug\Cap4Program1(Decimal_Int).exe
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo 4\Cap4Program1(Decimal_Int)\Cap4Program1(Decimal_Int)\bin\Debug\Cap4Program1(Decimal_Int).pdb
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo 4\Cap4Program1(Decimal_Int)\Cap4Program1(Decimal_Int)\obj\x86\Debug\Cap4Program1(Decimal_Int).exe
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo 4\Cap4Program1(Decimal_Int)\Cap4Program1(Decimal_Int)\obj\x86\Debug\Cap4Program1(Decimal_Int).pdb

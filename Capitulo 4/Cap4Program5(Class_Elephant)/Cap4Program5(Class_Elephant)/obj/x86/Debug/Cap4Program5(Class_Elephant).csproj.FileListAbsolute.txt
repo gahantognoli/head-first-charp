@@ -1,0 +1,14 @@
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program5(Class_Elephant)\bin\Debug\Cap4Program5(Class_Elephant).exe
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program5(Class_Elephant)\bin\Debug\Cap4Program5(Class_Elephant).pdb
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program5(Class_Elephant)\obj\x86\Debug\Cap4Program5_Class_Elephant_.Form1.resources
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program5(Class_Elephant)\obj\x86\Debug\Cap4Program5_Class_Elephant_.Properties.Resources.resources
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program5(Class_Elephant)\obj\x86\Debug\Cap4Program5(Class_Elephant).csproj.GenerateResource.Cache
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program5(Class_Elephant)\obj\x86\Debug\Cap4Program5(Class_Elephant).exe
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap4Program5(Class_Elephant)\obj\x86\Debug\Cap4Program5(Class_Elephant).pdb
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo 4\Cap4Program5(Class_Elephant)\Cap4Program5(Class_Elephant)\obj\x86\Debug\Cap4Program5(Class_Elephant).exe
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo 4\Cap4Program5(Class_Elephant)\Cap4Program5(Class_Elephant)\obj\x86\Debug\Cap4Program5(Class_Elephant).pdb
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo 4\Cap4Program5(Class_Elephant)\Cap4Program5(Class_Elephant)\bin\Debug\Cap4Program5(Class_Elephant).exe
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo 4\Cap4Program5(Class_Elephant)\Cap4Program5(Class_Elephant)\bin\Debug\Cap4Program5(Class_Elephant).pdb
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo 4\Cap4Program5(Class_Elephant)\Cap4Program5(Class_Elephant)\obj\x86\Debug\Cap4Program5_Class_Elephant_.Form1.resources
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo 4\Cap4Program5(Class_Elephant)\Cap4Program5(Class_Elephant)\obj\x86\Debug\Cap4Program5_Class_Elephant_.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Capitulo 4\Cap4Program5(Class_Elephant)\Cap4Program5(Class_Elephant)\obj\x86\Debug\Cap4Program5(Class_Elephant).csproj.GenerateResource.Cache

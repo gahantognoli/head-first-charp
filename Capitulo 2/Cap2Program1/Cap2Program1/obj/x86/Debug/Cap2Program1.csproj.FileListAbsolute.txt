@@ -1,0 +1,7 @@
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap2Program1\bin\Debug\Cap2Program1.exe
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap2Program1\bin\Debug\Cap2Program1.pdb
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap2Program1\obj\x86\Debug\Cap2Program1.Form1.resources
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap2Program1\obj\x86\Debug\Cap2Program1.Properties.Resources.resources
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap2Program1\obj\x86\Debug\Cap2Program1.csproj.GenerateResource.Cache
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap2Program1\obj\x86\Debug\Cap2Program1.exe
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap2Program1\obj\x86\Debug\Cap2Program1.pdb

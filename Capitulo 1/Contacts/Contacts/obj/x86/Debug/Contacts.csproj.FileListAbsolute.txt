@@ -1,0 +1,14 @@
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.csproj.GenerateResource.Cache
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.exe
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.pdb
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\bin\Debug\ContactsDB.sdf
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.csprojResolveAssemblyReference.cache
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\bin\Debug\Contacts.exe.manifest
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\bin\Debug\Contacts.application
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.exe.manifest
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.application

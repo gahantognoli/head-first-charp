@@ -1,0 +1,13 @@
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\bin\Release\ContactsDB.sdf
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\bin\Release\Contacts.exe.config
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\bin\Release\Contacts.exe.manifest
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\bin\Release\Contacts.application
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\bin\Release\Contacts.exe
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\bin\Release\Contacts.pdb
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Release\Contacts.csproj.GenerateResource.Cache
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Release\Contacts.exe.manifest
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Release\Contacts.application
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Release\Contacts.exe
+C:\Users\gabri\onedrive\documentos\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Release\Contacts.pdb

@@ -1,0 +1,3 @@
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Laboratorio 1\Laboratorio1(UmDiaDeCorridas)\Laboratorio1(UmDiaDeCorridas)\obj\x86\Release\Laboratorio1_UmDiaDeCorridas_.Form1.resources
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Laboratorio 1\Laboratorio1(UmDiaDeCorridas)\Laboratorio1(UmDiaDeCorridas)\obj\x86\Release\Laboratorio1_UmDiaDeCorridas_.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Documentos\Visual Studio 2010\Projects\Livro C# - Use a cabeça\Laboratorio 1\Laboratorio1(UmDiaDeCorridas)\Laboratorio1(UmDiaDeCorridas)\obj\x86\Release\Laboratorio1(UmDiaDeCorridas).csproj.GenerateResource.Cache

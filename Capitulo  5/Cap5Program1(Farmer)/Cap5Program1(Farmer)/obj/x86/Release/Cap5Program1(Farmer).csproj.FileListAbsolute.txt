@@ -1,0 +1,7 @@
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap5Program1(Farmer)\bin\Release\Cap5Program1(Farmer).exe
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap5Program1(Farmer)\bin\Release\Cap5Program1(Farmer).pdb
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap5Program1(Farmer)\obj\x86\Release\Cap5Program1_Farmer_.Form1.resources
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap5Program1(Farmer)\obj\x86\Release\Cap5Program1_Farmer_.Properties.Resources.resources
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap5Program1(Farmer)\obj\x86\Release\Cap5Program1(Farmer).csproj.GenerateResource.Cache
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap5Program1(Farmer)\obj\x86\Release\Cap5Program1(Farmer).exe
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap5Program1(Farmer)\obj\x86\Release\Cap5Program1(Farmer).pdb

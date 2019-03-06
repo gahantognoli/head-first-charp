@@ -1,0 +1,12 @@
+1- new Nagivator();
+2 - navigator2.setDestination(destination);
+3 - navigator2.ModifyRouteToAvoid;
+4 - int distance2 = navigator2.totalDistance();
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Navigator navigator3 = new Navigator();
+navigator3.setDestination(destination);
+navigator3.ModifyRouteToAvoid();
+int distance3 = navigator3.totalDistance();

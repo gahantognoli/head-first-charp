@@ -1,0 +1,7 @@
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap3Program1(Class_Talker)\bin\Debug\Cap3Program1(Class_Talker).exe
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap3Program1(Class_Talker)\bin\Debug\Cap3Program1(Class_Talker).pdb
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap3Program1(Class_Talker)\obj\x86\Debug\Cap3Program1_Class_Talker_.Form1.resources
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap3Program1(Class_Talker)\obj\x86\Debug\Cap3Program1_Class_Talker_.Properties.Resources.resources
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap3Program1(Class_Talker)\obj\x86\Debug\Cap3Program1(Class_Talker).csproj.GenerateResource.Cache
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap3Program1(Class_Talker)\obj\x86\Debug\Cap3Program1(Class_Talker).exe
+C:\Users\gabri\AppData\Local\Temporary Projects\Cap3Program1(Class_Talker)\obj\x86\Debug\Cap3Program1(Class_Talker).pdb
